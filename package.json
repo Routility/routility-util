@@ -1,0 +1,25 @@
+{
+  "name": "routility-util",
+  "version": "0.0.0",
+  "description": "Universal utility for Routility",
+  "main": "./lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Routility/routility-util.git"
+  },
+  "author": "Daiwei Lu <daiweilu123@gmail.com> (http://daiwei.lu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Routility/routility-util/issues"
+  },
+  "homepage": "https://github.com/Routility/routility-util#readme",
+  "dependencies": {
+    "route-recognizer": "^0.1.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
